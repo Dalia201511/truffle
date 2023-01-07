@@ -126,4 +126,5 @@ The setup is done, you can now write your command and organize your module as yo
 ```shell
 $ cd packages/core
 $ node cli.js mycmd
+
 ```
